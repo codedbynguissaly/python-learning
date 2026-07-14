@@ -9,17 +9,18 @@ This repository documents my progress as I learn Python, practice programming co
 ## 📚 Topics Covered
 
 - Variables
-- Data Types
-- User Input
-- Operators
-- Conditional Statements
-- Loops
+- input()
+- Conditions (if, else)
+- elif
+- Loops (for, while)
 - Functions
 - Lists
-- Dictionaries
+- Dictionnaries
+- Character strings
+- Files
 - Modules
-- File Handling
-- Object-Oriented Programming (coming soon)
+- Error handling
+- 
 
 ---
 
@@ -29,14 +30,18 @@ This repository documents my progress as I learn Python, practice programming co
 python-learning/
 │
 ├── 01-variables/
-├── 02-data-types/
-├── 03-user-input/
-├── 04-conditions/
+├── 02-input()/
+├── 03-conditions (if, else)/
+├── 04-elif/
 ├── 05-loops/
 ├── 06-functions/
-├── exercises/
-└── mini-projects/
-```
+├── 07-lists/
+└── 08-dictionnaries/
+├── 09-characters strings
+├── 10-files
+├── 11-modules
+├── 12-error handling
+
 
 ---
 
